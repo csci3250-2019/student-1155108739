@@ -17,3 +17,5 @@
 * Environment: Ubuntu 16.04
 * git init & open readme.md: ![alt text](/img/git_init+vi.png)
 * git commit & push: ![alt text](/img/git_commit+push.png)
+* adding pic[1]: ![alt text](img/Add_pic[1].png)
+* adding pic[2]: ![alt text](img/Add_pic[2].png)
