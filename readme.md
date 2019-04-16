@@ -1,5 +1,6 @@
 # LAW Hei Yiu :blush:
 ## A year **2** student from ~~Computer Science~~ **_Computer Engineering_**
+## A newbie to GitHub!
 
 | Programming Course Taken | Language Used | Term When Taken |
 | :----------------------: | :-----------: | :-------------: |
